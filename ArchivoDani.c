@@ -1,5 +1,5 @@
 /*
-Autor:Edgar Daniel Eduardo 23/Enero/19
+Autor:Daniel Eduardo 23/Enero/19
 Entradas:
 Salidas:
 Procedimiento general:
