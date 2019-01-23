@@ -1,5 +1,5 @@
 /*
-Autor:Edgar Cambranes 26/Enero/17
+Autor:Eyder Concha 26/Enero/17
 Entradas:
 Salidas:
 Procedimiento general:
@@ -10,7 +10,8 @@ Procedimiento general:
 int main(int argc, char *argv[]) {
 	/*Entradas*/
 	
-	/*Procedimiento*/
+	/*Procedimiento*/
+
 	/*Salidas*/
 	return 0;
 }
