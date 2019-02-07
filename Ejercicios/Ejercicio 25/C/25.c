@@ -18,10 +18,22 @@ Procedimiento General:
 
 int main()
     {
+    /*Entradas*/
+    //Se declara el tipo de variable a solicitar
     char letra;
+    int cASCII;
+    
+    //Se solicita al usuario ingresar una letra
     printf("Ingresa una letra \n");
     scanf("%c",&letra);
-    printf("El codigo ASCII para %c es %d",letra,letra);
-
+    
+    /*Procedimiento*/
+    //Se asigna una variable entera con el codigo ASCII correspondiente a la letra ingresada
+    cASCII=("%d",letra);
+    
+    /*Salidas*/
+    //Se imprime el codigo ASCII correspondiente a la letra asignada
+    printf("El codigo ASCII para %c es %i",letra,cASCII);
     return 0;
     }
+    /*Pruebas*/
