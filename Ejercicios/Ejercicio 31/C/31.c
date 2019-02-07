@@ -41,6 +41,7 @@ int main()
             suma=suma+1;
         }
     }
+    /*Salidas*/
     //Se comprueba que el número ingresado sea únicamente divisible entre el número 1
     if (suma==1) {
         //Si su único factor fué el 1, es un número primo
@@ -52,3 +53,4 @@ int main()
 
     return 0;
     }
+    //Pruebas
